@@ -240,4 +240,4 @@ This repository serves as the official landing page for Photon GameManager. The 
 **Get the most recent version of Photon GameManager today!**
 
 ---
-**Last updated:** 2026-09-09 23:36:45 UTC
+**Last updated:** 2026-09-10 01:46:44 UTC
